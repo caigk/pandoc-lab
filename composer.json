@@ -1,0 +1,12 @@
+{
+    "name": "caigangkun/termux-api",
+    "require": {
+        "mustache/mustache": "^2.13"
+    },
+    "authors": [
+        {
+            "name": "caigk",
+            "email": "caigk@sina.com"
+        }
+    ]
+}

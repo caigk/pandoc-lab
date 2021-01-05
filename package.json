@@ -1,0 +1,19 @@
+{
+  "name": "pandoc-lab",
+  "version": "1.0.0",
+  "description": "实验库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caigk/pandoc-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caigk/pandoc-lab/issues"
+  },
+  "homepage": "https://github.com/caigk/pandoc-lab#readme"
+}
