@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "实验库",
   "scripts": {
-    "test": "sh -c ./test-php.sh"
+    "test": "sh -c ./test-php.sh",
+    "testJs": "node js/pandoc-test-01.js & node js/pandoc-test-02.js"
   },
   "repository": {
     "type": "git",

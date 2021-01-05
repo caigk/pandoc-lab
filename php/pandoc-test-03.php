@@ -197,5 +197,5 @@ function generateDocs(array $vars, string $templatePath)
     }
 }
 
-generatePdf($fields, "pandocTemplate.tex");
-generateDocs($fields, "pandocTemplate.tex");
+generatePdf($fields, __DIR__."/../sample/pandocTemplate.tex");
+generateDocs($fields,  __DIR__."/../sample/pandocTemplate.tex");
